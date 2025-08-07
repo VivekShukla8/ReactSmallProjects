@@ -1,0 +1,17 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+
+
+html.light {
+  background-color:aliceblue;
+}
+
+html.dark {
+  background-color: #1a202c; /* same as Tailwind's gray-900 */
+}
+
